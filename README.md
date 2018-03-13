@@ -16,3 +16,8 @@ _as is this text_
 **This text is Bold**
 
 _You **Can** combine them_
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
