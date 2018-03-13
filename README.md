@@ -17,6 +17,8 @@ _as is this text_
 
 _You **Can** combine them_
 
+1. Item 1
+
 * Item 1
 * Item 2
   * Item 2a
